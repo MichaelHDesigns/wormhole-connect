@@ -1,0 +1,5 @@
+{
+  "networks": ["ethereum", "solana"],
+  "tokens": ["ETH", "WETH", "SOL", "DCA420"],
+  "theme": "light"
+}
